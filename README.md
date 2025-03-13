@@ -1,1 +1,1 @@
-# animal-kingdom
+# animalkingdom
